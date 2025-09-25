@@ -21,5 +21,7 @@ This project demonstrates a fully responsive layout, elegant UI, and reusable co
 
 ---
 
-##📸 schreenshot
+## 🌐 Live Demo & Repository
 
+- 🔗 **Live Demo:** [Click here to view](https://buyoraa.vercel.app/)  
+- 🔗 **GitHub Repository:** [Click here to view](https://buyoraa.netlify.app/)
