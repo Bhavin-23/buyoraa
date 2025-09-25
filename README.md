@@ -15,7 +15,7 @@ This project demonstrates a fully responsive layout, elegant UI, and reusable co
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js (Vite)  
+- **Frontend:** React (Vite)  
 - **Styling:** Tailwind CSS  
 - **Icons:** Lucide React (optional)  
 
